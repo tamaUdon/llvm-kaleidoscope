@@ -3,5 +3,5 @@
 ## これは何？
 
 自習用リポジトリ
-LLVMでミニ言語を作るチュートリアルを写経したもの
+LLVMでミニ言語を作るチュートリアルを写経したもの  
 チュートリアル - [Kaleidoscope](https://llvm.org/docs/tutorial/).
